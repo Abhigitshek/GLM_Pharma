@@ -1,4 +1,5 @@
-# GLM_Pharma
+
+# Pharma Sales Forecasting — Regression
 ## Overview
 This repo contains a reproducible analysis for pharma sales forecasting using simple regression models. It includes data, trained models, evaluation metrics, and a minimal notebook to reproduce results.
 
